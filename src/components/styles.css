@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+}
+.songDetail,
+.songList {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid red;
+}
